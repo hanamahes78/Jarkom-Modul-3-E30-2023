@@ -229,8 +229,10 @@ service bind9 start
 Kemudian dicek node worker dengan melakukan test ping.
 > Ping riegel.canyon.e30.com
 
+![m 0 1](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/a76518c9-939a-4848-b339-5987765637ba)
 > Ping granz.channel.e30.com
 
+![m 0 2](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/6278583c-2d12-4f97-aecf-f760b3be5207)
 
 ## **Soal Nomor 1**
 Lakukan konfigurasi sesuai dengan peta yang sudah diberikan.
@@ -295,6 +297,7 @@ service isc-dhcp-relay start
 ```
 Dicek client apakah berhasil mendapatkan IP.
 
+![m 2](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/f2805c90-fde7-4833-ad3a-f34f3588bcb1)
 
 ## **Soal Nomor 3**
 Client yang melalui Switch4 mendapatkan range IP dari [prefix IP].4.12 - [prefix IP].4.20 dan [prefix IP].4.160 - [prefix IP].4.168.
@@ -332,6 +335,7 @@ Selanjutnya dilakukan konfigurasi pada Aura.
 
 Dicek client apakah berhasil mendapatkan IP.
 
+![m 3](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/d69d7fdb-d526-4218-ae94-bd751814a0ad)
 
 ## **Soal Nomor 4**
 Client mendapatkan DNS dari Heiter dan dapat terhubung dengan internet melalui DNS tersebut.
@@ -363,6 +367,7 @@ Selanjutnya dilakukan konfigurasi pada Aura.
 Dicek client apakah berhasil terhubung ke internet.
 > Ping google.com
 
+![m 4](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/98eb136e-12d0-40f7-80e2-6d2e49f64648)
 
 ## **Soal Nomor 5**
 Lama waktu DHCP server meminjamkan alamat IP kepada Client yang melalui Switch3 selama 3 menit sedangkan pada client yang melalui Switch4 selama 12 menit. Dengan waktu maksimal dialokasikan untuk peminjaman alamat IP selama 96 menit.
@@ -390,3 +395,6 @@ Selanjutnya dilakukan konfigurasi pada Aura.
 > Script dijalankan pada **root node Aura** dengan command `bash setup.sh`
 
 Dicek client apakah lease time sesuai.
+
+![m 5 1](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/4589b677-f314-49e6-93f9-ad74a5a8b3cb)
+![m 5 2](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/f673af73-21e9-46bf-8b9f-0c1f0400a6e3)
