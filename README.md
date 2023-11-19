@@ -15,6 +15,7 @@ Berikut repository dari Kelompok E30 Praktikum Modul 3 Jaringan Komputer.
 
 Berikut adalah topologi yang digunakan. 
 
+![image](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/082ab90f-3581-42ea-b981-ae536220a78f)
 
 ### Konfigurasi
 - Aura (DHCP Relay)
