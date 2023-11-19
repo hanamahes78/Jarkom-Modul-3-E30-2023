@@ -399,3 +399,8 @@ Dicek client apakah lease time sesuai.
 
 ![m 5 1](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/4589b677-f314-49e6-93f9-ad74a5a8b3cb)
 ![m 5 2](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/f673af73-21e9-46bf-8b9f-0c1f0400a6e3)
+
+## **Kendala yang dialami**
+Tidak bisa melakukan install PHP pada worker.
+
+![Screenshot (432)](https://github.com/hanamahes78/Jarkom-Modul-3-E30-2023/assets/108173681/d55dceba-e5e4-49d9-bd8a-a15ab71ea670)
