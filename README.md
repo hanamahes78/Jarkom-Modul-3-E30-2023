@@ -235,7 +235,7 @@ Kemudian dicek node worker dengan melakukan test ping.
 ## **Soal Nomor 1**
 Lakukan konfigurasi sesuai dengan peta yang sudah diberikan.
 ## **Penyelesaian Soal Nomor 1**
-Sudah terjawab pada [Konfigurasi](#konfigurasi)
+Sudah terjawab pada [Konfigurasi](#konfigurasi).
 
 ## **Soal Nomor 2**
 Semua CLIENT harus menggunakan konfigurasi dari DHCP Server.
@@ -262,6 +262,7 @@ Kemudian dilakukan konfigurasi pada DHCP Relay untuk meneruskan IP dari DHCP Ser
 ### Testing
 Pada node Himmel akan dilakukan setup.
 > Script dijalankan pada **root node Himmel** dengan command `bash setup.sh`
+
 Selanjutnya dilakukan konfigurasi pada Aura.
 > Script dijalankan pada **root node Aura** dengan command `bash setup.sh`
 - Aura
@@ -325,8 +326,10 @@ Kemudian dilakukan konfigurasi pada DHCP Relay untuk meneruskan IP dari DHCP Ser
 ### Testing
 Pada node Himmel akan ditambahkan setup.
 > Script dijalankan pada **root node Himmel** dengan command `bash setup.sh`
+
 Selanjutnya dilakukan konfigurasi pada Aura.
 > Script dijalankan pada **root node Aura** dengan command `bash setup.sh`
+
 Dicek client apakah berhasil mendapatkan IP.
 
 
@@ -353,8 +356,10 @@ subnet 192.221.4.0 netmask 255.255.255.0 {
 ### Testing
 Pada node Himmel akan ditambahkan setup.
 > Script dijalankan pada **root node Himmel** dengan command `bash setup.sh`
+
 Selanjutnya dilakukan konfigurasi pada Aura.
 > Script dijalankan pada **root node Aura** dengan command `bash setup.sh`
+
 Dicek client apakah berhasil terhubung ke internet.
 > Ping google.com
 
@@ -380,6 +385,8 @@ subnet 192.221.4.0 netmask 255.255.255.0 {
 ### Testing
 Pada node Himmel akan ditambahkan setup.
 > Script dijalankan pada **root node Himmel** dengan command `bash setup.sh`
+
 Selanjutnya dilakukan konfigurasi pada Aura.
 > Script dijalankan pada **root node Aura** dengan command `bash setup.sh`
+
 Dicek client apakah lease time sesuai.
